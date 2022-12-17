@@ -1,2 +1,3 @@
 # solana resource
-smart contrace
+smart contract
+
