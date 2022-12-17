@@ -1,0 +1,2 @@
+# solana resource
+smart contrace
